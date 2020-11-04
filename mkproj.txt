@@ -1,0 +1,8 @@
+[project]
+mcu=atmega32
+f_cpu=8000000
+[MkVersion]
+BuildVersion=1.0.0
+BuildNumber=35
+BuildTime=20:45:29
+BuildDate=2020-11-04
